@@ -49,7 +49,7 @@ Regional analysis shows that the Central region generates the highest revenue, p
 Shipping performance indicates Standard Class shipping generates the most revenue, far higher than other shipping options. This shows that customers prefer more affordable delivery methods. Regions with higher sales, especially Central and North, also record higher shipment activity due to more orders.
 Customer performance analysis further reveals a very high repeat customer rate of 95.92 percent, indicating strong retention and customer loyalty. Customer growth remains positive overall, with peak activity recorded in November. Sales per customer also reflect strong value generation per client.
 
-Access my dashboard and findings [HERE](https://docs.google.com/file/d/1k2VJ99d97oR44gIz68OPW17_-NRb2rJp/edit?usp=docslist_api&filetype=msexcel)
+Access my dashboard and findings [HERE](https://drive.google.com/drive/folders/19uBIHJwxSA_rWR9gYz_ryiIYHKt_57vt?usp=sharing)
 
 ## Conclusion and Recommendation:
 Overall, the analysis indicates strong revenue generation, healthy profitability, and exceptional customer retention. The business performs particularly well in the Technology category, the Central region, and during the final quarter of the year.
